@@ -1,6 +1,6 @@
 ## Open Source Ethereum Mining Pool
 
-**PPS version**
+**PPS version**okk
 
 Please consider reading docs/GettingStarted.md first.
 
